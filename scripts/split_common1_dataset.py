@@ -1,7 +1,7 @@
 import pandas as pd 
 import os, shutil
 
-BASE_DIR = 'dataset/Common1/'
+BASE_DIR = '../dataset/Common1/'
 CLIPS_DIR = BASE_DIR+'clips/'
 TRAIN_FILE = BASE_DIR+'train.tsv'
 TEST_FILE = BASE_DIR+'test.tsv'
